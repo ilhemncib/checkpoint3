@@ -1,0 +1,73 @@
+body{
+    background-image: url("./stylee.css/pinkflower.jpg");
+    background-repeat: repeat-x;
+}
+li{
+    display: inline;
+    font-family: roboto;
+    font-size: 20px;
+    
+
+}
+
+
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+#titre{
+    
+color: blueviolet;
+
+border: 2px solid black;
+position: center;
+    margin-top: 50px;
+    padding-left: 400px;
+    animation-name: flower;
+    animation-duration: 3s;
+    
+}
+h1{color: red;}
+h6{font-size: 30px;
+color: brown;}
+h3{
+    color: brown;
+}
+p{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    position: relative;
+    right: 10px;
+    left: 450px;
+    border-color: blue;
+}
+label{color:red;
+font-size: 20px;}
+input{color: blue;}
+h2{
+color:pink;
+border-top-left-radius: 200px;
+padding-left: 600px;
+}
+#titre2{
+    color:rgb(255, 192, 236) ;
+    padding-left: 600px;
+}
